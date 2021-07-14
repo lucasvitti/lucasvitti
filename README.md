@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @lucasvitti
+- 👀 I’m interested in Mathematics (being a mathematician myself), Machine Learning, Quantum Computing
+- 🌱 I’m currently learning Quantum Computing (starting on IBM qiskit)
+- 💞️ I’m looking to collaborate on QC/ML/AI projects
+- 📫 Contact me on twitter, @LucasVitti
